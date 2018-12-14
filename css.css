@@ -1,0 +1,13 @@
+*{margin:0; padding:0; list-style-type:none;}
+h2{font-size:14px;}
+body{font-size:12px; background:black;}
+table{font-size:14px;}
+#main{width:1000px; margin:0 auto;}
+#menu{background:#080F19; height:35px;}
+#menu a{font-size:14px; color:#fff; text-decoration:none;}
+#menu table{width:100%; height:38px;}
+#menu table td{text-align:center;}
+#content{background:#fff; line-height:40px; padding:20px;}
+#content p{text-indent:30px;}
+#footer{background:#ddd; text-align:center; color:gray; padding:20px 0; border-top:3px solid white;}
+#footer p{line-height:30px;}
